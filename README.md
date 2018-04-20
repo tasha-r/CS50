@@ -1,0 +1,2 @@
+# CS50
+The purpose of this repository is to store my solutions to the problem sets given by the CS50 introduction to Computer Science course. Even though this is a beginners course to programming and I have used nearly all of the technologies listed in the syllabus before, I am interested to see what content and skills it covers. The course syllabus can be found at https://docs.cs50.net/2018/x/syllabus.html
